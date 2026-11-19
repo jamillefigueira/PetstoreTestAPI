@@ -1,0 +1,17 @@
+{
+  "id": 29385528,
+  "category": {
+    "id": 312,
+    "name": "gato"
+  },
+  "name": "Bichento",
+  "photoUrls": [
+],
+  "tags": [
+    {
+      "id": 1,
+      "name": "vacinado"
+    }
+  ],
+  "status": "available"
+}
